@@ -425,17 +425,6 @@ Use `demo@csgirlies.com` / `DemoPass123!` to test with pre-populated data.
 * [ ] Hear sound effects
 * [ ] Test on different browsers
 
-***
-
-## 👥 Team PawPatrol
-
-This project was built by **Team PawPatrol** as a gamified educational platform to make learning fun and engaging through companion-based motivation!
-
-***
-
-## 📄 License
-
-This project is part of the CSGIRLIES hackathon submission.
 
 ***
 
