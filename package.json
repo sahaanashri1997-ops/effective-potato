@@ -1,0 +1,49 @@
+{
+  "name": "csgirlie",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.81.1",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/react-router-dom": "^5.3.3",
+    "i18next": "^23.16.8",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-i18next": "^14.1.3",
+    "react-router-dom": "^7.9.6",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "concurrently": "^8.2.2"
+  },
+  "scripts": {
+    "dev": "concurrently \"cd backend && npm start\" \"npm start\"",
+    "dev:frontend": "react-scripts start",
+    "dev:backend": "cd backend && npm start",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
