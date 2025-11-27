@@ -112,9 +112,6 @@ When you study, focus, and answer quizzes correctly, your companion gains XP, le
   * Last study date
 * **Session Management**: Automatic login restoration
 
-### 🎨 Beautiful UI/UX
-
-* ADD DESCRIPTION
 
 ### 📚 Document Processing
 
